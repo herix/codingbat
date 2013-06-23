@@ -23,7 +23,5 @@ public class MixString {
 
 		sb.append(longer.substring(shorter.length()));
 		return sb.toString();
-
 	}
-
 }
